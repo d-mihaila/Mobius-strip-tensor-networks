@@ -5,6 +5,8 @@ Our goal is to analize the coherence properties of the 0-π qubit as it aproaces
 
 This research is based on the article 'Spectrum and coherence properties of the current-mirror qubit' and we used the quantum tensor network library by Professor Christian Mendl cmendl/pytenet as referenced below.
 
+Note: Our resulting gaph does not have the expeted shape and this, we believe, is due to the periodic boundary conditions of our system, for which the Pytenet library will be adjusted. 
+
 
 # References 
 1. D. K. Weiss, Andy C. Y. Li, D. G. Ferguson, Jens Koch
